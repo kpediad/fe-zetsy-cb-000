@@ -26,6 +26,7 @@ figure {
 	margin-right: auto;
 }
 
-h1, h2 {
+h2 {
 	color: rgb(152,173,166);
+	font-size: 120%
 }
