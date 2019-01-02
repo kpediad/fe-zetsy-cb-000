@@ -18,3 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+figure {
+	border: 5px;
+	border-color: #848F8B;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
