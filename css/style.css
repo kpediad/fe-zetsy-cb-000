@@ -21,10 +21,6 @@ body {
 
 figure {
 	border: 5px rgb(152,173,166) solid;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 1px;
 }
 
 h2 {
