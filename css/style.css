@@ -25,3 +25,7 @@ figure {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+h1, h2 {
+	color: rgb(152,173,166);
+}
